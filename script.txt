@@ -1,0 +1,5 @@
+hey
+hello
+history
+ls
+exit

@@ -1,0 +1,6 @@
+     alex.txt config.h core lex.yy.c lex.yy.o lexer.l longstr.c
+longstr.h longstr.o main.c main.o Makefile nwc parse-cl parser.h
+parser.y pipeline.c pipeline.h pipeline.o script.txt sfmt
+stringlist.c stringlist.h stringlist.o stringstuff.c
+stringstuff.h stringstuff.o timer von2.txt vssh vssh.c vssh.h
+vssh.o y.tab.c y.tab.h y.tab.o
